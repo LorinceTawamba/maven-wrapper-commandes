@@ -2,17 +2,12 @@
 
 Le **Maven Wrapper** est un moyen simple de s'assurer qu'un utilisateur de votre build Maven dispose de tout le nécessaire pour exécuter votre build Maven. 
 
-# Les configurations globales   
+# Les commandes de base   
 
-## Rappel
-
-**Ne pas oublier : l'aide en ligne de commande.**
+- Installer 
 
 ```shell
-git help config
-git help push
-git help pull
-git help branch
+./mvnw clean install
 ```  
 
 # Authors
