@@ -1,6 +1,6 @@
-# MAVEN WRAPPER - COMMANDES
+# MAVEN WRAPPER - COMMANDES 
 
-Les commandes git pour optimiser le travail collaboratif, améliorer ses performances et booster son code sources. 
+Le **Maven Wrapper** est un moyen simple de s'assurer qu'un utilisateur de votre build Maven dispose de tout le nécessaire pour exécuter votre build Maven. 
 
 # Les configurations globales   
 
